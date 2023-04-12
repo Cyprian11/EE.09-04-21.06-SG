@@ -1,0 +1,38 @@
+body{
+    font-family: Helvetica;
+
+}
+.baner{
+    background-color: #AF4448;
+    color: white;
+    text-align: center;
+    height: 20px;   
+}
+.stopka{
+    background-color: #AF4448;
+    color: white;
+    text-align: center;
+    height: 20px; 
+    clear: both;  
+}
+.lewy{
+    background-color: #FFA4A2;
+    height: 650px;
+    width: 50%;
+    float: left;
+}
+.prawy{
+    background-color: #FFA4A2;
+    height: 650px;
+    width: 50%;
+    float: left;
+}
+h4{
+    margin: 0px;
+}
+.b1{
+    background-color: #AF4448;
+    color: white;
+    padding: 5px;
+    margin: 10px;
+}
